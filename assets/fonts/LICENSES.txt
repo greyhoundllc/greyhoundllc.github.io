@@ -1,0 +1,3 @@
+Inter and Inter Display: Copyright The Inter Project Authors. SIL Open Font License 1.1.
+Lora: Copyright The Lora Project Authors. SIL Open Font License 1.1.
+Both licenses permit embedding in websites.
